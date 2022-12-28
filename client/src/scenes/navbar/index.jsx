@@ -56,7 +56,7 @@ const Navbar = () => {
                         },
                     }}
                 >
-                    Sociopedia
+                    RCP SpotChat
                 </Typography>
                 {isNonMobileScreens && (
                     <FlexBetween
