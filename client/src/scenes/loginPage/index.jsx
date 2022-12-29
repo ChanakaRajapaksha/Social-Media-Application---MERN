@@ -13,7 +13,7 @@ const LoginPage = () => {
                 textAlign="center"
             >
                 <Typography fontWeight="bold" fontSize="32px" color="primary">
-                    RCP SpotChat
+                    Sociopedia
                 </Typography>
             </Box>
 
@@ -24,8 +24,8 @@ const LoginPage = () => {
                 borderRadius="1.5rem"
                 backgroundColor={theme.palette.background.alt}
             >
-                <Typography textAlign="center" fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-                    Welcome to RCP SpotChat, the Social Media for Sociopaths!
+                <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
+                    Welcome to Socipedia, the Social Media for Sociopaths!
                 </Typography>
                 <Form />
             </Box>
