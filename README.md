@@ -14,7 +14,6 @@
   <li>FORMIK + yup: Form and Form Validation</li>
   <li>Redux Toolkit: State Management</li>
   <li>Redux with Persistent: Store in local storage</li>
-  <li>Redux with Persistent: Store in local storage</li>
 </ul>
 <h3>For the backend</h3>
 <ul>
