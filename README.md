@@ -1,1 +1,1 @@
-<h1>Social Media Application - <color = "green">RCP SpotChat</color></h1>
+<h1>Social Media Application - <b>RCP SpotChat</b></h1>
